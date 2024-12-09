@@ -1,0 +1,66 @@
+/* Hero Section */
+.hero-section {
+    background: url('images/hero-bg.jpg') no-repeat center center/cover;
+    color: hsl(36, 71%, 4%);
+    
+}
+
+.hero-section h1 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.hero-section p {
+    font-size: 1.2rem;
+}
+
+/* seccion de caracteristicas */
+.features i {
+    color: #a72887;
+    margin-bottom: 10px;
+}
+
+/* pie de pagina */
+.footer {
+    background-color: #333;
+}
+
+.footer a {
+    margin: 0 10px;
+}
+
+
+/* Fondo verde para la sección features */
+.features {
+    background-color: #010216; /* Verde Bootstrap */
+    color: #eeecec; /* Texto blanco */
+}
+
+
+.square-box {
+    background-color: #8e2bcc; /* Fondo blanco */
+    border: 2px solid #bf9a3d; /* Borde gris claro */
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 20px; /* Espaciado interno */
+    text-align: center; /* Centrar el contenido */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+.square-box i {
+    color: #a443b4; /* Color verde para el icono */
+    margin-bottom: 10px; /* Espaciado debajo del icono */
+}
+
+.square-box p {
+    font-size: 1rem; /* Tamaño de texto */
+    color: #061111; /* Color del texto */
+}
+h1{
+    background-color: color(srgb-linear red green blue);
+}
+.tex-center{
+    width: 100;
+    
+}
+
+
